@@ -1,0 +1,9 @@
+D:\PROJECTS\Practice\MvcAuction\Common\bin\Debug\Common.dll.config
+D:\PROJECTS\Practice\MvcAuction\Common\bin\Debug\Common.dll
+D:\PROJECTS\Practice\MvcAuction\Common\bin\Debug\Common.pdb
+D:\PROJECTS\Practice\MvcAuction\Common\bin\Debug\EntityFramework.dll
+D:\PROJECTS\Practice\MvcAuction\Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECTS\Practice\MvcAuction\Common\bin\Debug\EntityFramework.xml
+D:\PROJECTS\Practice\MvcAuction\Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECTS\Practice\MvcAuction\Common\obj\Debug\Common.dll
+D:\PROJECTS\Practice\MvcAuction\Common\obj\Debug\Common.pdb
